@@ -22,6 +22,10 @@ description: The description of the project
 ---
 ```
 
+## How to run
+
+    bundle exec jekyll serve
+    
 ## Demo
 View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-theme)
 
